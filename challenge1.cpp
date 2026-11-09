@@ -1,5 +1,5 @@
-//challenge 1 
-// string is palindrom or not 
+//challenge 1  check whether given string is palindrom or not 
+
 #include<iostram>
 #include<string>
 using namespace std;
