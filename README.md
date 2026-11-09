@@ -4,4 +4,4 @@ language is c++
  difficulty of Challenge starts from  basic  challenge
   list of challenges 
   1. string is palindrom or not
-  2. fuzzy-buzz
+  2. fizz-buzz
