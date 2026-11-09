@@ -6,14 +6,19 @@ int main()
 int i;
   for (i=1;i<=100;i++)
     {
-      if(i%3==0){
-        return "Fizz";
+      if(i%3==0 && i%5==0){
+        cout<< "FizzBuzz";
       }
-        else if (i%5==0)
+        else if (i%3==0)
         {
-          retrun  "Buzz";
+           cout<< "fizz";
           
         }
+          else if (i%5==0)
+          {
+            cout<<"Buzz";
+          }
+          
       else 
         {
           cout<< i<<\n;
