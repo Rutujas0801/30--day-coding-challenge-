@@ -5,3 +5,4 @@ language is c++
   list of challenges 
   1. string is palindrom or not
   2. fizz-buzz
+  3. Return the Next Number from the Integer Passed
