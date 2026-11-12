@@ -23,5 +23,4 @@ else
 {
   cout<< "Not Palindrom";
 }
-return 0;
 }
